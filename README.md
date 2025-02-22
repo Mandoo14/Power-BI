@@ -1,5 +1,5 @@
 # Báo cáo Power BI: Thông tin dân số và GDP các tỉnh
-  ## Mô tả: 1. Tiêu đề
+ ## 1 Mô tả:
   ### Tên báo cáo: "Thông tin dân số và GDP các tỉnh"
   ### Tổng quan về nội dung của báo cáo, tập trung vào dân số và tổng sản phẩm trên địa bàn (GRDP) của các tỉnh thành.
   ## 2. Thẻ KPI (Card)
